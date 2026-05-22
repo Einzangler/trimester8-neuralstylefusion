@@ -67,7 +67,38 @@ Then open `http://localhost:7860` in your browser.
 
 ## Results
 
-![Results](https://github.com/tphanir/NeuralStyleFusion/assets/125972587/6e29adfa-fba3-4525-a9bd-825082db1375)
+One can infer that if the **Content** and **Style** images are chosen appropriately, the result may turn out to be a fantastic and artistically pleasing image.
+
+### Result 1 — Building + Starry Night
+<p>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0155.jpg?raw=true" width="350"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0147.jpg?raw=true" width="150"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/1_output_.jpg?raw=true" width="350"/>
+</p>
+
+### Result 2 — Lion + Mosaic
+<p>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0158.jpg?raw=true" width="350"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0159.jpg?raw=true" width="150"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/2_output.jpg?raw=true" width="350"/>
+</p>
+
+### Result 3 — Owl + Orange Swirl
+<p>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0160.jpg?raw=true" width="350"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0161.jpg?raw=true" width="150"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/3_output.jpg?raw=true" width="350"/>
+</p>
+
+### Result 4 — NYC Bridge + Oil Painting
+<p>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0156.jpg?raw=true" width="350"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0157.jpg?raw=true" width="150"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/4_output.jpg?raw=true" width="350"/>
+</p>
+
+
+
 
 ## Tools & Technologies
 - Python

@@ -85,8 +85,17 @@ One can infer that if the **Content** and **Style** images are chosen appropriat
 
 ### Result 3 — Owl + Orange Swirl
 <p>
-  <img src="https://github.com/Einzangler/trimester8-neurals
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0160.jpg?raw=true" width="350"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0161.jpg?raw=true" width="150"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/output3.jpg?raw=true" width="350"/>
+</p>
 
+### Result 4 — NYC Bridge + Oil Painting
+<p>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0156.jpg?raw=true" width="350"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/IMG_0157.jpg?raw=true" width="150"/>
+  <img src="https://github.com/Einzangler/trimester8-neuralstylefusion/blob/main/output4.jpg?raw=true" width="350"/>
+</p>
 
 ## Tools & Technologies
 - Python
